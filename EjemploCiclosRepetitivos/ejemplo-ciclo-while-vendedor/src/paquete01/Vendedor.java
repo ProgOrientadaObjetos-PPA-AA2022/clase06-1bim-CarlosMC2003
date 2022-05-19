@@ -75,4 +75,6 @@ public class Vendedor {
     public double obtenerComisionPorAuto() {
         return comisionPorAuto;
     }
+    
+    
 }

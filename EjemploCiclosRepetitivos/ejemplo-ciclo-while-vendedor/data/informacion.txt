@@ -1,7 +1,21 @@
 Datos de Vendedor
-Nombre: René 
-Edad: 38
-Salario mínimo: 100,00
+Nombre: Carlos
+Edad: 19
+Salario mínimo: 1300,00
+Número de autos: 3
+Pago mensual: 1750,00
+
+Datos de Vendedor
+Nombre: Balin
+Edad: 27
+Salario mínimo: 750,00
 Número de autos: 1
-Pago mensual: 250,00
+Pago mensual: 900,00
+
+Datos de Vendedor
+Nombre: Pablo
+Edad: 75
+Salario mínimo: 543,75
+Número de autos: 5
+Pago mensual: 1293,75
 
